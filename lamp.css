@@ -1,0 +1,7 @@
+.alert{
+    width: 200px !important;
+    margin-top: 5px !important;
+}
+canvas{
+    border-radius: 10px;
+}
